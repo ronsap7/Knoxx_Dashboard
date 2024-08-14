@@ -33,10 +33,6 @@ Make sure you have Node.js and npm installed on your machine.
    cd interactive-dashboard
    ```
 
-```npm install
+```npm install```
 
-```
-
-```npm start
-
-```
+```npm start```
